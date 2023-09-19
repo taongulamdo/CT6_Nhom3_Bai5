@@ -1,5 +1,5 @@
 # BÁO CÁO KẾT QUẢ THỰC HÀNH NHÓM 3 BUỔI 5
-  - Baig thực hành viết giao diện web
+  - Bài thực hành viết giao diện web
 # Instuctor
   - Phạm Quang Trí
 # Author
